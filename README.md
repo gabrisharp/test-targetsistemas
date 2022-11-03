@@ -7,3 +7,5 @@ Solucao 1 : Questão que não requer código em txt
 Soluções 2 em diante: Soluções feitas em javascript com nodeJS
 → Executar pelo comando:
     node solucao2.js
+    node solucao3.js
+    etc.
