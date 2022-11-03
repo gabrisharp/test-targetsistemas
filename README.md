@@ -5,7 +5,11 @@ Soluções feitas em javascript nodeJS
 Solucao 1 : Questão que não requer código em txt
 
 Soluções 2 em diante: Soluções feitas em javascript com nodeJS
-→ Executar pelo comando:
-    node solucao2.js
-    node solucao3.js
-    etc.
+
+Executar testes pelo comandos:
+
+node solucao2.js
+
+node solucao3.js
+
+etc.
